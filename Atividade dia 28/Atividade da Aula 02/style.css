@@ -1,0 +1,52 @@
+.dv1 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+    margin-top: 100px;
+}
+
+.dv2 {
+
+    background-color: black;
+    height: 50vh;
+    width: 50%;
+    border: 10px dashed red;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+/* atividade 2 */
+
+.dv3 {
+
+    background-color: rgb(234, 11, 241);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.dv4 {
+    background-color: #ff01af;
+    height: auto;
+    width: 250px;
+    border: 20px dotted red;
+}
+
+.dv5 {
+    background-color: aquamarine;
+    height: 88%;
+    width: 30%;
+}
+
+/* desafio */
+
+.prim{
+
+    background-color: #915C5C;
+    width: 70%;
+    height: 300px;
+
+
+}

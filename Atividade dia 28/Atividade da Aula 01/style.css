@@ -1,0 +1,32 @@
+.dv1 {
+    background-color: #ff006a;
+    width: 900px;
+    height: 100px;
+}
+
+.dvG {
+    background-color: #02ff78;
+    height: 41%;
+    width: 60%;
+}
+
+.parag {
+    color: rgb(248, 248, 248);
+    background-color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.dv2 {
+    width: 6%;
+    height: 51vh;
+    background-color: rgb(85, 233, 134);
+}
+
+.dvF {
+
+    width: 66vw;
+    height: 30%;
+    background-color: rgb(4, 12, 82);
+}

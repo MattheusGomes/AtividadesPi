@@ -1,0 +1,31 @@
+body {
+    background-color: #9b9393;
+}
+
+.dv1 {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dv2 {
+
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+
+}
+
+.dv3 {
+    background-color: rgb(221, 146, 7);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
