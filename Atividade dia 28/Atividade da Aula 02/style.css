@@ -50,3 +50,43 @@
 
 
 }
+
+.bd{
+    background-color: #9b9393;
+}
+
+
+.dv6 {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dv7 {
+
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+
+}
+
+.dv8 {
+    background-color: rgb(11, 238, 11);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.dv9{
+
+    background-color: rgb(221, 146, 7);
+    height: 100px;
+    width: 30%;
+}
