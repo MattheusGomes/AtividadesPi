@@ -1,0 +1,205 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    margin: 0;
+}
+
+/* Inicio do header/navbar */
+
+.header {
+    border-bottom: 3px solid #00AFAF;
+    ;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+
+.header .container {
+    justify-content: space-between;
+
+}
+
+.active {
+    color: gold;
+    font-weight: bold;
+
+}
+
+.header ul {
+    color: yellow;
+    font-weight: 500;
+}
+
+.header-title {
+    color: aqua;
+    width: fit-content;
+
+}
+
+.navBar {
+    color: white;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+
+/* 
+fim do header */
+
+/* 
+inicio do banner
+ */
+
+
+
+/* 
+inicio footer */
+
+.footer {
+    background-color: #00AFAF;
+    height: 90px;
+    color: #fff;
+    display: flex;
+    font-size: 20px;
+}
+
+.footer .container {
+    justify-content: center;
+}
+
+/* fim footer */
+
+
+/* 
+Pagina de login */
+
+.banner .container .card {
+    background-color: beige;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    color: palevioletred;
+    align-items: center;
+    border-radius: 16px;
+}
+
+
+
+.card h1 {
+    font-size: 30px;
+}
+
+.card h4 {
+    font-size: 16px;
+}
+
+
+.card input {
+    border: 3px solid palevioletred;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+
+}
+
+.card button {
+    background-color: palevioletred;
+    margin-top: 25px;
+    height: 30px;
+    width: 100px;
+    color: white;
+    font: 700 20px monospace;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+/* tela cadastro */
+
+.bannerCad{
+    background-image: url(../imgs/bg-jelly-fish-para_outras_pags.png);
+    height: 750px;
+    color: #fff;
+    display: flex;
+
+}
+
+.bannerCad .container{
+    display: flex;
+    justify-content: center;
+}
+
+.bannerCad .container .card {
+    background-color: beige;
+    height: 650px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    color: palevioletred;
+    align-items: center;
+    border-radius: 16px;
+}
+
+.bannerCad .container .card .nm {
+    margin-top: 30px;
+    width: 80%;
+    display: flex;
+    color: palevioletred;
+    justify-content: space-evenly;
+    border-radius: 16px;
+}
+
+.bannerCad .container .card .nm .cent{
+    
+    display: flex;
+    flex-direction: column;
+    color: palevioletred;
+    align-items: center;
+    border-radius: 16px;
+}
+
+
+
+.card h1 {
+    font-size: 30px;
+}
+
+.card h4 {
+    font-size: 20px;
+}
+
+
+.card input {
+    border: 3px solid palevioletred;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.bannerCad .container .card button {
+    background-color: palevioletred;
+    margin-top: 25px;
+    height: 30px;
+    width: 110px;
+    color: white;
+    font: 700 20px monospace;
+    border-radius: 4px;
+    cursor: pointer;
+}
