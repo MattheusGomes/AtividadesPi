@@ -1,0 +1,22 @@
+body{
+
+    background-color: darkslategray;
+    margin: 0%;
+}
+
+
+.cont{
+    display: flex;
+    height: 600px;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+
+.myChart{
+    background-color: white;
+    height:60vh; 
+    width:46vw;
+
+
+}
